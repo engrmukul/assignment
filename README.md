@@ -5,6 +5,7 @@
   ### cd assignment/api
   ### npm install
   ### node server.js
+  ### Config your api port in "assignment/app/src/http-common.js"
   ### cd assignment/app
   ### npm install
   ### npm start
